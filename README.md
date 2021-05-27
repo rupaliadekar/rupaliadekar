@@ -4,7 +4,7 @@
 
 
 
-Made with :heart: by [rupali adekar]
+Made  :heart: by [rupali adekar]
 
 ## Available Scripts
 
